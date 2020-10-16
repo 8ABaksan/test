@@ -1,5 +1,5 @@
-first = float(input("Введите первое: " ))
-second = float (input("Введите второе : "  ))
+first = float(input("Введите первое число: " ))
+second = float (input("Введите второе число: "  ))
 
 opt = input("Выберите действие (+,-,/,*)")
 if opt == "/":
