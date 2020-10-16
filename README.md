@@ -1,2 +1,2 @@
 # pythontests
-# Murat, Eldar and Alan the owners
+# Мурат Алан и Эльдар
