@@ -1,3 +1,3 @@
 name = input("Введите имя : ")
-print("Привет , дорогой " + name)
-
+print("Привет " + name)
+print ("Хаю Хай")
