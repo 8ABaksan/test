@@ -1,2 +1,2 @@
 # pythontests
-#Мурат Эльдар и Алан владельцы 
+#Murat, Eldar and Alan the owners
