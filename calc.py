@@ -1,19 +1,17 @@
-first = float(input("Введите первое число: " ))
-second = float (input("Введите второе число: "  ))
-
-opt = input("Выберите действие (+,-,/,*)")
-if opt == "/":
-    if second != 0:
-       res = first / second
-       print (res)
-elif opt == "*":
-    res = first * second
-    print (res)
-elif opt == "+":
-    res = first + second
-    print(res)
+vvod = input()
+znach = vvod.split()
+first = znach[0]
+second = znach[2]
+opt = znach[1]
+if opt == "+":
+    print(float(second) + float(first))
 elif opt == "-":
-    res = first - second
-    print (res)
+    print(float(first) - float(second))
+elif opt == "*":
+    print(float(second) * float(first))
+elif opt == "/":
+    print(float(first) / float(second))
+elif opt == "**":
+    print(float(first) ** float(second))
 else:
-    print("Неверное действие")
+    print("НЕПРАВИЛЬНЫЙ ОПЕРАТОР")
