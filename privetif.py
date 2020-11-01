@@ -1,6 +1,7 @@
 name = input("Введите имя: ")
 if name == "Мурат":
     print("Привет" + name)
+    #я просто проверпяю гит
 elif name == "МУРАТ":
     print("Привет" + name)
 elif name == "мУРАТ":

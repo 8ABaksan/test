@@ -1,4 +1,5 @@
 package com.murat;
+//ПРроверка
 import java.util.Scanner;
 public class Calc {
     public static final String ANSI_RESET = "\u001B[0m";
@@ -45,3 +46,4 @@ public class Calc {
 
     }
 }
+
